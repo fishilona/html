@@ -1,0 +1,100 @@
+
+
+
+
+img {
+  border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+  
+}
+
+h1 { color: #222; font-family: "Lucida Handwriting"; font-size: 35px; font-weight: simple; font-style:italic; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+
+h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+
+
+.p0{
+	font-family: Papyrus, fantasy; background-color:rgba(120, 160, 20, 0.7); font-size: 15px; text-align: center; font-weight: bold;
+	
+	
+}
+
+#specialStyle01 {
+	
+	 border-style: dotted;
+    border-color: blue;
+	border-radius:4px;
+}
+
+
+#specialStyle02 {
+	
+	border-style: inset;
+	border-color:red;
+	border-radius:4px;
+}
+
+
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;color:red;
+}
+
+.p3 {
+  font-family: "Lucida Console"; font-weight: bold; font-style:italic; color:rgba(105, 105, 105);
+  }
+
+.background0 { background-image: url(https://image.freepik.com/free-vector/white-gold-geometric-pattern-background-vector_53876-140726.jpg); background-size:100% 100% ;
+}
+
+.background1 {
+  background:  rgba(249, 230, 185, 0.7);
+}
+
+.background2 {
+  background:  rgba(249, 230, 185, 0.7);
+  
+}
+
+.shadowbox {
+  width:130px;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  border-radius: 5px;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+	
+}
+
+img { width: 200px;
+border-radius: 50%;
+      
+}
+
+.img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.8);
+  shadow-color:blue;
+}
+
+.blue {
+	color:blue;
+	
+
+}
+
+
+#specialStyle {
+	
+	border: 2px solid red;
+	
+}
+
